@@ -1,0 +1,8 @@
+{
+  "name": "encriptador-texto",
+  "private": true,
+  "description": "Encriptador de texto (Challenge Alura / Oracle One)",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
