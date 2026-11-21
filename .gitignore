@@ -1,0 +1,31 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias y artefactos de build
+node_modules/
+dist/
+build/
+coverage/
+
+# Logs y cachés
+*.log
+npm-debug.log*
+.npm/
+.eslintcache
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+token*.txt
+
+# Editores e IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
