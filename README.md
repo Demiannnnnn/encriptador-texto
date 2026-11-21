@@ -24,6 +24,8 @@ Las consonantes, espacios y demás caracteres se conservan sin modificaciones. E
 
 ```text
 .
+├── AGENTS.md
+├── .gitignore
 ├── LICENSE.md
 ├── README.md
 └── Proyecto Alura/
