@@ -21,11 +21,6 @@ body{
     bottom: 0%;
 }
 
-.logo img{
-    width: max-content;
-    height: max-content;
-}
-
 .texto{
     border: none;
     height: 0;
