@@ -6,6 +6,9 @@ Thumbs.db
 node_modules/
 dist/
 build/
+target/
+*.jar
+*.class
 coverage/
 
 # Logs y cachés
@@ -13,6 +16,8 @@ coverage/
 npm-debug.log*
 .npm/
 .eslintcache
+__pycache__/
+*.py[cod]
 
 # Variables de entorno y secretos
 .env
